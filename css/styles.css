@@ -39,8 +39,8 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px; /* espaço entre texto e imagem */
-    max-width: 100%; /* evita estourar tela */
+    gap: 20px;
+    max-width: 100%;
 }
 
 .apresentacao__conteudo{
